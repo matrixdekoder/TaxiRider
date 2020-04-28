@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477370692954",
+    "firebase_url": "https://taxi-275218.firebaseio.com",
+    "project_id": "taxi-275218",
+    "storage_bucket": "taxi-275218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477370692954:android:c00affed7acf5924922f63",
+        "android_client_info": {
+          "package_name": "com.example.taxirider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477370692954-7dn0qfuvi7ea6c91vd6g8hvnl3k6lr7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA77DRF4_MzSgCPkdhB3ZZ88avxXJgUHyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477370692954-7dn0qfuvi7ea6c91vd6g8hvnl3k6lr7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
